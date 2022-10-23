@@ -1,17 +1,20 @@
 {
-  "posts": [
+  "events": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Event 1"
+      "description": "Event 1 is the best event in the world"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Event 2"
+      "description": "Event 2 is the best event in the world"
     },
     {
       "id": 3,
-      "title": "Post 3"
-    }
+      "title": "Event 3"
+      "description": "Event 3 is the best event in the world"
+    },
   ],
   "comments": [
     {
